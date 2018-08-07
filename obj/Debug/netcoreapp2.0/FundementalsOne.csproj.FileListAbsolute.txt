@@ -1,0 +1,11 @@
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\bin\Debug\netcoreapp2.0\FundementalsOne.deps.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\bin\Debug\netcoreapp2.0\FundementalsOne.runtimeconfig.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\bin\Debug\netcoreapp2.0\FundementalsOne.runtimeconfig.dev.json
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\bin\Debug\netcoreapp2.0\FundementalsOne.dll
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\bin\Debug\netcoreapp2.0\FundementalsOne.pdb
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\obj\Debug\netcoreapp2.0\FundementalsOne.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\obj\Debug\netcoreapp2.0\FundementalsOne.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\obj\Debug\netcoreapp2.0\FundementalsOne.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\obj\Debug\netcoreapp2.0\FundementalsOne.dll
+C:\Users\Kevin\Desktop\csharp\coding-dojo\fundementalsOne\obj\Debug\netcoreapp2.0\FundementalsOne.pdb
+C:\Users\Kevin\Desktop\csharp\coding-dojo\FundementalsOne\obj\Debug\netcoreapp2.0\FundementalsOne.csprojResolveAssemblyReference.cache
